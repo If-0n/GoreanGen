@@ -3,9 +3,9 @@ This is a Discord nitro gen that spawns discord nitro gifts really fast it isn't
 
 Update logs
 
-1.1
+1.2
 
 Whats new?
 
-- Updated ui
-- Overall bug fixes
+- All the ui has been moved into the console
+- A few performance based things like the app not running sometimes
