@@ -1,11 +1,12 @@
 # GoreanGen
-This is a Discord nitro gen that spawns discord nitro gifts really fast it isn't very advanced yet and im planning on adding a code checker
+This is a Discord nitro gen that spawns discord nitro gifts really fast it has a code checker and writes valid codes to a text doc
 
 Update logs
 
-1.2
+1.3
 
 Whats new?
 
-- All the ui has been moved into the console
-- A few performance based things like the app not running sometimes
+- Updated ui
+- Code checker!
+- To much networking
