@@ -5,8 +5,12 @@ Update logs
 
 1.3
 
-Whats new?
+# Whats new?
 
 - Updated ui
 - Code checker!
 - To much networking
+
+# Donating to klox's projects
+
+* Tether (Solana) *8bsYncMLMZXdfVg4cK3SW5SW5btzpxoUonDkNXMccjLS*
